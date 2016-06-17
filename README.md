@@ -1,2 +1,1 @@
-# spyse-bot
-Bot for BotConnector
+# Consumer Bot
